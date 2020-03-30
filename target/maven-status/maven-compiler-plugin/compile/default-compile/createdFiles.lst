@@ -1,0 +1,6 @@
+com/proyecto/index/inter/IpersonaService.class
+com/proyecto/index/repository/PersonaRepository.class
+com/proyecto/index/service/PersonaService.class
+com/proyecto/index/PrincipalApplication.class
+com/proyecto/index/controller/PersonaController.class
+com/proyecto/index/bean/tablapersona.class
